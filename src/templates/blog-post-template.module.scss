@@ -1,0 +1,41 @@
+@import "../styles/main.scss";
+
+.header {
+  @extend .tc;
+}
+
+.title {
+  @extend .page-heading;
+}
+
+.subtitle {
+  @extend .gray;
+}
+
+.draft {
+  background-color: $color-tertiary-light;
+
+  @extend .ma3, .pa3;
+
+  span {
+    @extend .f5;
+  }
+}
+
+.tag-list-container {
+  @extend .flex, .flex-wrap, .justify-center;
+
+  div {
+    @extend .mh2;
+  }
+}
+
+.post-content {
+  @extend .mv4;
+}
+
+.post-end {
+  @extend .flex, .flex-row, .justify-between, .mb4, .mt6, .pt3;
+
+  border-bottom: 3px solid $color-secondary;
+}
