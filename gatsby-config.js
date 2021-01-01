@@ -7,9 +7,9 @@
 module.exports = {
   siteMetadata: {
     siteUrl: "https://gatsby-starter-voyager.netlify.com",
-    author: "gregdferrell",
+    author: "rhiannonstanford",
     publisher: "gatsby-starter-voyager.netlify.com",
-    title: "Voyager",
+    title: "Island BabyGirl",
     description:
       "Gatsby Starter Voyager is feature-rich starter blog. It's MIT licensed and ready to be used as-is or as a starting point from which to build something tailored to your needs. Use it, learn from it, build on it & enjoy.",
     image: "/images/logo.jpg",
@@ -174,8 +174,8 @@ module.exports = {
       resolve: "gatsby-plugin-manifest",
       options: {
         // req props
-        name: "Gatsby Starter Voyager",
-        short_name: "Voyager",
+        name: "Island Babygirl",
+        short_name: "Island Babygirl",
         start_url: "/",
         background_color: "#fff",
         theme_color: "#9c7c38",

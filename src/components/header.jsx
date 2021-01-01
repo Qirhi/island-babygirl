@@ -24,7 +24,7 @@ const Header = () => {
         <nav className={styles.navMain}>
           <span>
             <Link to="/" className={styles.navHomeLink}>
-              Voyager
+              Island Babygirl
             </Link>
           </span>
 
