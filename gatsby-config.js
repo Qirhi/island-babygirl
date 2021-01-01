@@ -161,9 +161,13 @@ module.exports = {
     {
       resolve: "gatsby-plugin-web-font-loader",
       options: {
-        google: {
-          families: ["Open Sans", "Rock Salt", "Mansalva", "Lily Script One"],
+        custom: {
+          families: ["SF Cartoonist Hand"],
+          urls: ["/fonts/fonts.css"],
         },
+        // google: {
+        //   families: ["Open Sans", "Rock Salt", "Mansalva", "Lily Script One"],
+        // },
       },
     },
     {

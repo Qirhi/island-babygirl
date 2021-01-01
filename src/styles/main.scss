@@ -28,7 +28,7 @@ $color-tertiary-light: #cdd5e6;
 body {
   @extend .bg-white, .dark-gray, .f4;
 
-  font-family: "Open Sans", sans-serif;
+  font-family: "SF Cartoonist Hand", sans-serif;
 }
 
 p {
@@ -67,7 +67,7 @@ blockquote cite {
 blockquote:before {
   content: '"';
   color: rgba(0, 0, 0, 0.1);
-  font-family: "Lily Script One", cursive;
+  font-family: "SF Cartoonist Hand", sans-serif;
   font-size: 260px;
   left: 0;
   position: absolute;
@@ -104,17 +104,17 @@ blockquote:before {
 h1.page-heading {
   @extend .f1, .fw1, .mb4, .mt6, .tc;
 
-  font-family: "Mansalva", cursive;
+  font-family: "SF Cartoonist Hand", sans-serif;
 }
 
 h2.section-heading {
   @extend .db, .f2, .fw1, .lh-copy, .mb3, .tc;
 
-  font-family: "Mansalva", cursive;
+  font-family: "SF Cartoonist Hand", sans-serif;
 }
 
 h3.section-sub-heading {
-  font-family: "Mansalva", cursive;
+  font-family: "SF Cartoonist Hand", sans-serif;
 }
 
 // links and buttons
