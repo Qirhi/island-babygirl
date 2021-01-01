@@ -1,10 +1,11 @@
 ---
 type: page-content
 name: index-hero
-title: Voyager
-subtitle: a Gatsby starter that'll take you places
+title: Island Babygirl
+subtitle: ... a playful web comic blog celebrating Love 🌺 Life 🤙🏾 Aloha 🌈
+
 leftImage: "../../images/luca-bravo-O453M2Liufs-unsplash.jpg"
-leftImageAlt: alt text here
+leftImageAlt: little island babygirl standing in playful pose comic
 rightImage: "../../images/nadi-whatisdelirium-3VTZloIMFP0-unsplash.jpg"
-rightImageAlt: alt text here
+rightImageAlt: little island babygirl standing in fun pose comic
 ---

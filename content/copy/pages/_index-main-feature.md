@@ -1,7 +1,7 @@
 ---
 type: page-content
 name: index-main-feature
-heading: Gatsby Starter Voyager
+heading: 🌴 Håfa Adai 🌴
 linkUrl: "/about"
 linkText: Read More
 ---
