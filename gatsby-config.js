@@ -11,7 +11,7 @@ module.exports = {
     publisher: "island-babygirl.netlify.com",
     title: "Island BabyGirl",
     description:
-      "Island Babygirl is a web comic blog inspired by love ♡ life ♡ aloha.  Håfa Adai!  Welcome!  Read & Enjoy!",
+      "Island Babygirl is a web comic blog inspired by Love ♡ Life ♡ Aloha.  Håfa Adai!  Welcome!  Read & Enjoy!",
     image: "/images/logo.jpg",
     bannerImage: "/images/banner.png",
     blogPostsPerPage: 5,
