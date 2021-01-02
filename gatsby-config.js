@@ -11,12 +11,12 @@ module.exports = {
     publisher: "gatsby-starter-voyager.netlify.com",
     title: "Island BabyGirl",
     description:
-      "Gatsby Starter Voyager is feature-rich starter blog. It's MIT licensed and ready to be used as-is or as a starting point from which to build something tailored to your needs. Use it, learn from it, build on it & enjoy.",
+      "Island Babygirl is a web comic blog inspired by love ♡ life ♡ aloha.  Håfa Adai!  Welcome!  Read & Enjoy!",
     image: "/images/logo.jpg",
     bannerImage: "/images/banner.png",
     blogPostsPerPage: 5,
     social: {
-      instagram: "",
+      instagram: "@islandbabygirl",
       twitter: "",
     },
     mailchimpUrl: "",
