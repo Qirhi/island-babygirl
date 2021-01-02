@@ -1,7 +1,7 @@
 ---
 type: page-content
 name: index-hero
-title: Island Babygirl
+title: Welcome
 subtitle: ... a playful web comic blog celebrating Love 🌺 Life 🤙🏽 Aloha 🌈
 
 leftImage: "../../images/left-hero-island-babygirl.png"

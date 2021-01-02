@@ -6,9 +6,9 @@
 
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://gatsby-starter-voyager.netlify.com",
+    siteUrl: "https://island-babygirl.netlify.com",
     author: "rhiannonstanford",
-    publisher: "gatsby-starter-voyager.netlify.com",
+    publisher: "island-babygirl.netlify.com",
     title: "Island BabyGirl",
     description:
       "Island Babygirl is a web comic blog inspired by love ♡ life ♡ aloha.  Håfa Adai!  Welcome!  Read & Enjoy!",
