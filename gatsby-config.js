@@ -16,7 +16,7 @@ module.exports = {
     bannerImage: "/images/banner.png",
     blogPostsPerPage: 5,
     social: {
-      instagram: "@islandbabygirl",
+      instagram: "island.baby.girl",
       twitter: "",
     },
     mailchimpUrl: "",

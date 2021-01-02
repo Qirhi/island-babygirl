@@ -23,9 +23,9 @@ const Footer = () => {
     <div className={styles.footerWrapper}>
       <footer className={styles.footer}>
         <div className={styles.footerColumnName}>
-          <span className={styles.name}>Voyager</span>
+          <span className={styles.name}>Island Babygirl</span>
           <p className="f5">
-            Gatsby Starter Voyager is MIT Licensed.
+          © 2021 Island Babygirl. All Rights Reserved.
           </p>
           <div>
             <a
