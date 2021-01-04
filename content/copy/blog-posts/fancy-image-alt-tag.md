@@ -1,7 +1,7 @@
 ---
 type: post
 draft: false
-title: Extra Detailed Image Alt Tag
+title: Fancy Image Alt Tag
 author: IBG
 date: 2020-11-17
 tags:
@@ -11,6 +11,6 @@ image: "../../images/Alt_Tag_11.17.20.png"
 imageAlt: A picture of an image and the html image alt tag describes a dog playing along a tropical beach in Hawaii and life is perfect.
 ---
 
-## Consectetur - TEST
+Fancy Image Alt Tag
 
-Lorem ipsum dolor sit amet. - TEST
+HTML <img> alt Attributes 🌅 describe an image.  Descriptive alt tags help increase the accessibility 🌎 of your site so that users of screen readers 😎 and those with slow 🐢 internet can use your site and understand the picture content.
