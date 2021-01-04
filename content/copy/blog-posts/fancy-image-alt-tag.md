@@ -7,10 +7,10 @@ date: 2020-11-17
 tags:
   - web-development
 excerpt: An extra special alt tag.
-image: "../../images/Alt_Tag_11.17.20.png"
+image: "../../images/image-alt-tag-2020-11-17.png"
 imageAlt: A picture of an image and the html image alt tag describes a dog playing along a tropical beach in Hawaii and life is perfect.
 ---
 
-Fancy Image Alt Tag
+## Fancy Image Alt Tag
 
-HTML <img> alt Attributes 🌅 describe an image.  Descriptive alt tags help increase the accessibility 🌎 of your site so that users of screen readers 😎 and those with slow 🐢 internet can use your site and understand the picture content.
+HTML image alt Attributes 🌅 describe an image.  Descriptive alt tags help increase the accessibility 🌎 of your site so that users of screen readers 😎 and those with slow 🐢 internet can use your site and understand the picture content.
