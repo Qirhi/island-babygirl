@@ -5,6 +5,5 @@ heading: "About"
 image: "../../images/about-guam-sunset.png"
 imageAlt: "island baby girl comic character about picture"
 ---
-Write a short blurb about your site here and link to your About page for more information.
+Island Babygirl content is created by a 100% Chamorro Guam girl who was born and raised in the Pacific Northwest. Her comics are inspired by her passions and interests which include culture, science, nature, travel, wellness, and web development.  
 
-Suspendisse id urna fermentum, sagittis erat ac, ultricies ligula. Quisque porta lacus finibus, semper ex id, malesuada odio. Cras ac nisi aliquam, gravida metus a, tristique nisl. Etiam sit amet justo lacinia, finibus mi vel, lobortis arcu.

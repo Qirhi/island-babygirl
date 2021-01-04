@@ -7,8 +7,9 @@ date: 2019-10-24
 tags:
 - travel
 - americas
+- web development
 excerpt: Lorem ipsum dolor sit amet.
-image: "../../images/joseph-barrientos-Ji_G7Bu1MoM-unsplash.jpg"
+image: "../../images/Alt_Tag_11.17.20.png"
 imageAlt: alt text here
 ---
 
