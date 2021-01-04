@@ -60,7 +60,7 @@ For example:
   // First, I'll extend any of my own common classes
   @extend .bg-primary;
 
-  // Then, I'll extend the Tachyons classes, with each subsequent line extending classes for a larger viewport.
+  // Then, I'll extend the Tachyons classes, with each subsequent line extending classes for a larger viewport.  
   @extend .center,
     .flex,
     .flex-column,
@@ -76,12 +76,12 @@ Here are the minimal steps you'll need to take to re-brand and re-configure the 
 
 ## Branding & Design
 
-- Replace `/favicon.ico` with your own favicon
-- Replace `/static/images/banner.png` with your own banner image - image needs to be 600x60px
-- Replace `/static/images/logo.jpg` with your own logo image - image needs to be square
-- Replace both index hero photos in `/src/pages/index.jsx` - images should be the same aspect ratio (square images work best)
-- Replace other static images and text on index and about pages as well as the header & footer components
-- Choose a new color scheme by setting new color variable values in `/src/styles/main.scss`:
+- Replace `/favicon.ico` with your own favicon DONE
+- Replace `/static/images/banner.png` with your own banner image - image needs to be 600x60px DONE
+- Replace `/static/images/logo.jpg` with your own logo image - image needs to be square DONE
+- Replace both index hero photos in `/src/pages/index.jsx` - images should be the same aspect ratio (square images work best) DONE
+- Replace other static images and text on index and about pages as well as the header & footer components 
+- Choose a new color scheme by setting new color variable values in `/src/styles/main.scss`: DONE
 
 ```scss
 $color-primary: #e6eaf3;

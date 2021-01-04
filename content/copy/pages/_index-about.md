@@ -2,7 +2,7 @@
 type: page-content
 name: index-about
 heading: "About"
-image: "../../images/guille-pozzi-jD34AmVhESc-unsplash.jpg"
+image: "../../images/about-guam-sunset.png"
 imageAlt: "island baby girl comic character about picture"
 ---
 Write a short blurb about your site here and link to your About page for more information.
