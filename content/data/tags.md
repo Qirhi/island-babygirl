@@ -33,8 +33,10 @@ tag_details:
   featured: false
   # featured_image: ''
   featured_image_alt: ''
-- name: architecture
-  description: "Integer lobortis nulla lorem, sed facilisis tellus hendrerit efficitur. Suspendisse dictum libero sed ligula malesuada tempus. Donec urna velit, pulvinar ac porttitor non, ultrices id nisi."
+- name: web-development
+  description: "IBG has decided to learn web development! 💻  If you are interested in learning a little bit about coding 🧠 or if you would like to know what's it like to be a complete newb learning web development, follow IBG's journey here. ⬇️ 
+  
+  You can also follow her on Instagram at ➡️ @islandbabydev 📱 "
   featured: true
   featured_image: '../images/dmitry-goykolov-X8Vo9rGVPS8-unsplash.jpg'
   featured_image_alt: 'alt text here'

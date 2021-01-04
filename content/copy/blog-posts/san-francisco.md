@@ -1,14 +1,13 @@
 ---
 type: post
-draft: true
-title: San Francisco, USA
-author: Jimbo
-date: 2019-10-24
+draft: false
+title: Extra Detailed Image Alt
+author: IBG
+date: 2020-11-17
 tags:
-- travel
-- americas
-- web development
-excerpt: Lorem ipsum dolor sit amet.
+  - web-development
+  - europe
+excerpt: An extra special alt tag.
 image: "../../images/Alt_Tag_11.17.20.png"
 imageAlt: alt text here
 ---
