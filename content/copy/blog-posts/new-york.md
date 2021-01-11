@@ -1,6 +1,6 @@
 ---
 type: post
-draft: false
+draft: true
 title: New York, USA
 author: Jasmine
 date: 2019-01-03

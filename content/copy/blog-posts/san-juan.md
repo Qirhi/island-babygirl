@@ -1,6 +1,6 @@
 ---
 type: post
-draft: false
+draft: true
 title: San Juan, Puerto Rico
 author: Savannah
 date: 2019-07-02
