@@ -11,8 +11,6 @@ image: "../../images/flexbox-bento-2021-01-09.png"
 imageAlt: A bento box with sushi and tempura, demonstrating ways to justify content using flexbox.
 ---
 
-## Flexbox Yummy Bento 🍱
-
 💻➡️ “The Flexible Box Module, usually referred to as #flexbox, was designed as a one-dimensional layout model, and as a method that could offer space distribution between items in an interface and powerful alignment capabilities.” - MDN
 
 > Ever since I learned Flexbox 💻, I couldn’t stop thinking of bento 🍱 boxes.
@@ -41,7 +39,7 @@ items are distributed so that the spacing between any two items (and the space t
 
 > Flexbox 🍱 is great for mobile screens 📱 and responsive content for dynamic layouts and webapps 🖥️.
 
-![Bento box with sushi demonstrating Flexbox justify content positions.  Flex start, center, flex end.](../../images/flex-start-detail-2021-01-09.png)
+![Bento box with sushi demonstrating Flexbox justify content positions.  Flex start, center, flex end.](../../images/flex-start-2021-01-09.png)
 
 ## flex-start (default)
 
