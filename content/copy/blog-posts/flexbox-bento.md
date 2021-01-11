@@ -17,21 +17,24 @@ imageAlt: A bento box with sushi and tempura, demonstrating ways to justify cont
 
 > Ever since I learned Flexbox 💻, I couldn’t stop thinking of bento 🍱 boxes.
 >
-> <cite>yummy</cite>
 
 ![Bento box with the text explaining to use Flexbox justify content first.](../../images/flexbox-bento-justify-2021-01-09.png)
 
-🍣 🥢 Start with the CSS property justify-content: 
+> 🍣 🥢 Start with the CSS property justify-content: 
+>
 
-![Bento box with the text explaining to use Flexbox justify content first.](../../images/flexbox-space-between-2021-01-09.png)
+![Bento box with sushi demonstrating Flexbox justify content positions. Space between, space around, space evenly.](../../images/space-between-2021-01-09.png)
 
-space-between: items are evenly distributed in the line; first item is on the start line, last item on the end line
-.
-space-around: items are evenly distributed in the line with equal space around them. Note that visually the spaces aren’t equal, since all the items have equal space on both sides. The first item will have one unit of space against the container edge, but two units of space between the next item because that next item has its own spacing that applies.
-.
-space-evenly: items are distributed so that the spacing between any two items (and the space to the edges) is equal.
-.
-![Bento box with the text explaining to use Flexbox justify content first.](../../images/flexbox-space-between-detail-2021-01-09.png)
+## space-between
+items are evenly distributed in the line; first item is on the start line, last item on the end line
+
+## space-around
+items are evenly distributed in the line with equal space around them. Note that visually the spaces aren’t equal, since all the items have equal space on both sides. The first item will have one unit of space against the container edge, but two units of space between the next item because that next item has its own spacing that applies.
+
+## space-evenly
+items are distributed so that the spacing between any two items (and the space to the edges) is equal.
+
+![Bento box with sushi demonstrating Flexbox justify content positions.  Flex start, center, flex end.](../../images/space-between-detail-2021-01-09.png)
 
 ## Phasellus
 
