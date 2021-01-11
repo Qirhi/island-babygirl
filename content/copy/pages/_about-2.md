@@ -1,8 +1,13 @@
 ---
 type: page-content
 name: about-2
-heading: "Morbi"
-image: "../../images/guille-pozzi-jD34AmVhESc-unsplash.jpg"
+heading: "Island Babygirl"
+image: "../../images/right-hero-island-babygirl.jpeg"
 imageAlt: "alt text here"
 ---
-Morbi lorem elit, bibendum in dolor quis, tincidunt egestas lectus. Proin molestie tortor feugiat mauris imperdiet suscipit. Vivamus odio magna, sodales sit amet cursus ac, faucibus ut nisl. Duis ante felis, consequat sit amet lobortis id, pulvinar elementum dolor. Vivamus eu nunc id augue fringilla rutrum eget et ex. Praesent a placerat turpis. Suspendisse rhoncus dignissim venenatis. In at turpis finibus ligula pulvinar semper vitae at nulla.
+This comic is called Island Babygirl because it's main character, IBG is a Pacific Islander 🌴 and the name "Babygirl" is a common nickname of endearment 💛.  
+
+She sometimes goes by IBG. 🤙🏽
+
+>Never miss an IBG moment at Insta 📱 💕 at [@island.baby.girl](https://www.instagram.com/island.baby.girl/)
+>

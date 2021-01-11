@@ -1,8 +1,11 @@
 ---
 type: page-content
 name: about-3
-heading: "Vestibulum"
-image: "../../images/ahmet-sali-lqqpMXO_8Tc-unsplash.jpg"
+heading: "Island Baby Dev"
+image: "../../images/ibg-cafe-work.png"
 imageAlt: "alt text here"
 ---
-Vestibulum ullamcorper luctus erat eget vestibulum. Nunc bibendum magna non lorem porttitor posuere. Nulla in elit orci. In hac habitasse platea dictumst. Etiam quis est vitae arcu hendrerit fringilla quis vitae nunc. Cras at erat vitae nunc tempor gravida a et orci. Phasellus at aliquam urna. Duis dolor augue, maximus at mollis ac, aliquet id risus. Mauris et hendrerit ex.
+So one day, largely due to the global 🌎 pandemic 😷 🦠 of 2020 ... I found myself with a bit of free time.  So I decided to learn to code. 💻  I had always been interested in coding 🤓 and I figured, now is a great time 🙌🏽 to start.  Pandemic life 🏠 + learning to code 🧠 = GOOD 🤙🏽
+
+>Follow along with Island Babydev's coding journey on Insta 📱 💕 at [@islandbabydev](https://www.instagram.com/islandbabydev/)
+>
