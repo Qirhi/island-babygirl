@@ -13,15 +13,17 @@ imageAlt: A bento box with sushi and tempura, demonstrating ways to justify cont
 
 ## Flexbox Yummy Bento 🍱
 
-Ever since I learned Flexbox 💻, I couldn’t stop thinking of bento 🍱 boxes. 🍣 🥢 Start with the CSS property justify-content: 💻➡️ “The Flexible Box Module, usually referred to as #flexbox, was designed as a one-dimensional layout model, and as a method that could offer space distribution between items in an interface and powerful alignment capabilities.” - MDN
+💻➡️ “The Flexible Box Module, usually referred to as #flexbox, was designed as a one-dimensional layout model, and as a method that could offer space distribution between items in an interface and powerful alignment capabilities.” - MDN
 
-> Vivamus at vehicula enim. Nunc lobortis lacus et tortor faucibus, ut semper est commodo. Proin porttitor nibh et interdum ultricies.
+> Ever since I learned Flexbox 💻, I couldn’t stop thinking of bento 🍱 boxes.
 >
-> <cite>Jaime Doe</cite>
+> <cite>yummy</cite>
 
-Aliquam in est auctor, imperdiet diam a, commodo justo. Pellentesque tincidunt metus feugiat mattis dictum. Phasellus hendrerit lacus sit amet tincidunt finibus.
+![Bento box with the text explaining to use Flexbox justify content first.](../../images/flexbox-bento-justify-2021-01-09.png)
 
-![alt text here](../../images/unknown-photographer-DgE-BlRLKUU-unsplash.jpg)
+🍣 🥢 Start with the CSS property justify-content: 
+
+![Bento box with the text explaining to use Flexbox justify content first.](../../images/flexbox-space-between-2021-01-09.png)
 
 space-between: items are evenly distributed in the line; first item is on the start line, last item on the end line
 .
@@ -29,6 +31,7 @@ space-around: items are evenly distributed in the line with equal space around t
 .
 space-evenly: items are distributed so that the spacing between any two items (and the space to the edges) is equal.
 .
+![Bento box with the text explaining to use Flexbox justify content first.](../../images/flexbox-space-between-detail-2021-01-09.png)
 
 ## Phasellus
 
