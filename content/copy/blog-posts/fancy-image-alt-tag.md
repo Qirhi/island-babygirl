@@ -6,7 +6,7 @@ author: IBG
 date: 2020-11-17
 tags:
   - web-development
-excerpt: An extra special alt tag.
+excerpt: An extra special alt tag ...
 image: "../../images/image-alt-tag-2020-11-17.png"
 imageAlt: A picture of an image and the html image alt tag describes a dog playing along a tropical beach in Hawaii and life is perfect.
 ---

@@ -6,7 +6,7 @@ author: IBG
 date: 2020-11-10
 tags:
   - web-development
-excerpt: Dogs or cats...
+excerpt: Dogs or cats ...
 image: "../../images/dogs-or-cats-2020-11-10.png"
 imageAlt: Dog or cat using the logical or operator symbol.
 ---

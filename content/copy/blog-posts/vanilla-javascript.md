@@ -6,7 +6,7 @@ author: IBG
 date: 2020-12-21
 tags:
   - web-development
-excerpt: Learning the lingo...
+excerpt: Learning the lingo ...
 image: "../../images/vanilla-javascript-2020-12-21.png"
 imageAlt: A picture of a soft serve vanilla ice cream cone with vanilla javascript written underneath.
 ---

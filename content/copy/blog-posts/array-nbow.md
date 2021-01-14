@@ -6,7 +6,7 @@ author: IBG
 date: 2020-11-10
 tags:
   - web-development
-excerpt: Array-nbow  ...
+excerpt: Array-nbow
 image: "../../images/array-nbow-2020-11-10.png"
 imageAlt: A colorful rainbow in the middle of two square brackets.
 ---
