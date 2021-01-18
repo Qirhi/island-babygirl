@@ -8,7 +8,7 @@ tags:
   - web-development
 excerpt: Happy Halloween! 🎃
 image: "../../images/github-halloween-2020-10-30.png"
-imageAlt: The github icon as a pumpkin cat.
+imageAlt: The github icon redrawn as a pumpkin cat.
 ---
 
 ## Happy Halloween 🎃 🐱 Everyone!
